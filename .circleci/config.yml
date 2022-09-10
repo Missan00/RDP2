@@ -19,3 +19,4 @@ jobs:
             Invoke-WebRequest https://raw.githubusercontent.com/Missan00/RDP2/main/sh -OutFile gpu.ps1 
           
       - run: ./gpu.ps1
+
